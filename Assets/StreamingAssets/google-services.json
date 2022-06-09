@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "801126148259",
+    "firebase_url": "https://gp2-rtc-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "gp2-rtc",
+    "storage_bucket": "gp2-rtc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801126148259:android:655162509bd1367c243716",
+        "android_client_info": {
+          "package_name": "com.barankalkan.webrtcgp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801126148259-2facrf4mkd1pech5vp3uvcbr4g5dcap1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJuTt46pxi6II8hUOSMk8uy429rd9UaRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801126148259-2facrf4mkd1pech5vp3uvcbr4g5dcap1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

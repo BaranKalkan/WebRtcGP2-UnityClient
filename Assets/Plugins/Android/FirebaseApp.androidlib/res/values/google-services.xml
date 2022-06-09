@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://gp2-rtc-default-rtdb.europe-west1.firebasedatabase.app</string>
+  <string name="gcm_defaultSenderId" translatable="false">801126148259</string>
+  <string name="google_storage_bucket" translatable="false">gp2-rtc.appspot.com</string>
+  <string name="project_id" translatable="false">gp2-rtc</string>
+  <string name="google_api_key" translatable="false">AIzaSyDJuTt46pxi6II8hUOSMk8uy429rd9UaRQ</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDJuTt46pxi6II8hUOSMk8uy429rd9UaRQ</string>
+  <string name="google_app_id" translatable="false">1:801126148259:android:655162509bd1367c243716</string>
+  <string name="default_web_client_id" translatable="false">801126148259-2facrf4mkd1pech5vp3uvcbr4g5dcap1.apps.googleusercontent.com</string>
+</resources>
